@@ -1,0 +1,26 @@
+{
+  "co":"to excel in my choosen field in a job that is challenging and inspire me",
+  "Achive":{
+    "details":"I won 1 prize in school days"
+  },
+  "educationalQualifications":[{
+    "name":"B.Tech",
+    "inst":"Completed B.Tech in ALIET"
+    },
+  {
+    "name":"Intermediate",
+    "inst":"Completed Intermediate in sri chaitanya "
+    },
+  {
+    "name":"S S C",
+    "inst":"Completed SSC in Bhashyam"
+    }],
+    "tech":[{
+      "name":"Operating System:",
+      "value":"Windows, Linux, etc.,"
+    },
+    {"name":"Languages : ",
+      "value": "HTML5, CSS3, JavaScript, Angular JS"
+
+      }]
+}

@@ -7,7 +7,7 @@
 .left{
   background: pink;
   width: 20%;
-  text-align: center;
+  /* text-align: center; */
 }
 .left1 img{
   width: 35%;
@@ -21,20 +21,34 @@
   .main{
     width: 100%;
     flex: wrap;
-    display: flex;
+    /* display: flex; */
   }
   .left{
     width : 100%;
   }
   .left1{
     width: 100%;
-    flex: wrap;
+    /* flex: wrap; */
   }
   .details{
     display: flex;
     justify-content: space-between;
   }
   .right{
+    background: lightblue;
     width: 100%;
+  }
+  @media only screen amd (min-device-width:350px) and (max-device-width:460px) {
+    .main{
+      width: 100%;
+    }
+    .left{
+      width: 100%;
+      display: flex;
+    }
+    .right{
+      width: 100%;
+    }
+
   }
 }
